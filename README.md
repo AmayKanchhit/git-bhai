@@ -1,1 +1,1 @@
-https://github.com/AmayKanchhit/git-bhai.git
+Project for Git that performs operations like add, commit, push & pull.
